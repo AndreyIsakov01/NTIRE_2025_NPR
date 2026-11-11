@@ -1,0 +1,31 @@
+{
+    "black_level": [
+        256,
+        256,
+        256,
+        256
+    ],
+    "white_level": 4095,
+    "noise_profile": [
+        0.003454695275,
+        5.14075368211699e-05
+    ],
+    "cfa_pattern": [
+        0,
+        1,
+        1,
+        2
+    ],
+    "orientation": "Rotate 90 CW",
+    "as_shot_neutral": [
+        0.3355869699,
+        1.0,
+        0.3828892006
+    ],
+    "huawei_bounds": [
+        658,
+        2963,
+        0,
+        2654
+    ]
+}

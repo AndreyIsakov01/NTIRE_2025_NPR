@@ -1,0 +1,12 @@
+# Inference pipeline: JDD (NAFNet) + HDRNet as the last block.
+# Versions match the environment in which the pipeline was validated.
+torch==2.13.0
+numpy==2.2.6
+opencv-python==4.12.0.88
+scipy==1.16.3
+matplotlib==3.10.7
+pillow==12.0.0
+
+# For running the inference.ipynb notebook (or open it in VS Code / Jupyter)
+ipykernel==7.1.0
+jupyterlab==4.4.10
